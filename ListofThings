@@ -1,0 +1,16 @@
+1. Disk Space Monitor
+Similar to the CPU monitor, but this script would track disk usage and alert when space is low.
+2. Simple CLI Password Generator
+Create a command-line tool that generates random passwords with options for length, symbols, numbers, etc.
+3. Basic Network Ping Tool
+A script that pings a list of IPs or URLs and reports on their availability.
+4. Text-Based To-Do List
+A console-based app that lets you add, update, and delete tasks.
+5. Basic File Organizer
+A script that scans a folder and organizes files into subfolders by type (e.g., images, documents, videos).
+6. Network Port Scanner
+Create a simple scanner that checks if certain ports on a networked device are open or closed.
+7. Weather CLI App
+Use a free weather API to create a command-line tool that fetches and displays current weather for a given city.
+8. Personal Expense Tracker
+A script that allows you to input expenses, view totals, and see a summary.
